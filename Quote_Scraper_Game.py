@@ -73,12 +73,4 @@ while(playing):
                 break
             else:
                 playing = False
-                break
-
-
-
-
-
-
-        
-    
+                break    
